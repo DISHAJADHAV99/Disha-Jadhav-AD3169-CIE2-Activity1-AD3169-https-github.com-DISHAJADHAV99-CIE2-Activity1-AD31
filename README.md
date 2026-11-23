@@ -114,3 +114,4 @@ Third-Year B.Tech – Artificial Intelligence and Data Science
 
 ## 13. Faculty Reference
 [complexiota – GitHub](https://github.com/complexiota)
+Dataset Source: [Big Mart Sales Dataset]([PASTE_YOUR_KAGGLE_URL_HERE](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets?utm_source=chatgpt.com))
